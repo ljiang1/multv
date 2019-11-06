@@ -1,3 +1,3 @@
-module github.com/ljiang1/multv/v1
+module github.com/ljiang1/multv
 
 go 1.12

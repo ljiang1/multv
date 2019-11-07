@@ -1,1 +1,4 @@
-github.com/ljiang1/multv/ac_v4 v0.0.0-20191107185813-79e50ee02ddb/go.mod h1:Uw5BuAea3yAHKv9LSENuJPJ7l0p9s4KPlxK9t6/HxaI=
+github.com/ljiang1/multv/action/a1 v0.0.0-20191107192042-f072c1593b76 h1:jhSR7bytYl8HDC8+8u5U65o5xTmmxOr/mRVROe5qSc8=
+github.com/ljiang1/multv/action/a1 v0.0.0-20191107192042-f072c1593b76/go.mod h1:3K6FnnC5o00eNTRsgPn992XXP+gWi5JNlj4z8qPq4nQ=
+github.com/ljiang1/multv/action/a2 v0.0.0-20191107185813-79e50ee02ddb h1:YMuPxrtn7F4PLZ2k/Pxfp4NZW1yVOk5ekOKK22uCbRM=
+github.com/ljiang1/multv/action/a2 v0.0.0-20191107185813-79e50ee02ddb/go.mod h1:G4e9ajuhmZkrSKTmd0zNattNCsSdeK0X0SOzDGBtiiI=

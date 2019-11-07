@@ -2,7 +2,7 @@ package sdk
 
 import (
 	"fmt"
-	action "github.com/ljiang1/multv/action/a1"
+	action "github.com/ljiang1/multv/action"
 )
 
 func NewClient() {

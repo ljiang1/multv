@@ -2,11 +2,11 @@ package my
 
 import (
 	"fmt"
-	"github.com/ljiang1/multv/ac_v4"
+	action "github.com/ljiang1/multv/action"
 )
 
 func NewClient() {
 
 	fmt.Println("sdk client call action")
-	my.NewStuff()
+	action.NewStuff()
 }

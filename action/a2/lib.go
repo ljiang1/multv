@@ -1,4 +1,4 @@
-package my
+package action
 
 import "fmt"
 

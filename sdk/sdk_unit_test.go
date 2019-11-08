@@ -5,6 +5,6 @@ import (
 )
 
 func TestClientAtRoot(t *testing.T) {
-	NewClient()
+	//NewClient()
 
 }
